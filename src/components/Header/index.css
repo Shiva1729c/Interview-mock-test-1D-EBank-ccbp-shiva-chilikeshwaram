@@ -1,0 +1,31 @@
+.header-container {
+  background-color: #152850;
+  display: flex;
+  justify-content: center;
+}
+
+.header-content {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.website-logo {
+  width: 110px;
+}
+
+.logout-button {
+  color: #f8fafc;
+  background: none;
+  border: 1px solid #f8fafc;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  cursor: pointer;
+}
